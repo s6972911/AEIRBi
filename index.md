@@ -1,3 +1,11 @@
+### **AEIRBi** is a smart, wearable, portable air pollution sensor for outdoor and indoor use
+
+**AEIRBi** measures the **quality of the air around you** and updates you via our **dedicated app** on your smartphone. 
+
+Measures **Particulate Matter**, **VOCs**, **Nitrogen Dioxide** and more!
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/s6972911/AEIRBi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
